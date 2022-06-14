@@ -1,0 +1,5 @@
+Main font: Nunito
+Main font link: https://fonts.google.com/specimen/Nunito?query=nunito
+
+Supporting font: Open Sans
+Supporting font link: https://fonts.google.com/specimen/Open+Sans?query=open+sans

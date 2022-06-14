@@ -47,7 +47,7 @@ body {
     margin-top: 20px;
 
     height: 70px;
-    width: 80%;
+    width: 1600px;
 }
 
 .flexStart {
@@ -102,5 +102,82 @@ body {
     padding: 10px;
 
 }
+
+/* Intro Box Content Start */
+
+.intro-box {
+    display: flex;
+
+    margin: auto;
+
+    width: 1600px;
+}
+
+.short-about-content {
+    display: flex;
+    flex-direction: column;
+
+    margin: auto;
+    margin-left: 0px;
+
+    height: 400px;
+    width: 50%;
+}
+
+#introBoxTitle {
+    color: #1030a1;
+    font-size: 50px;
+    font-weight: 600;
+    font-family: "Nunito", sans-serif;
+
+    margin: auto;
+    margin-left: 0px;
+    margin-top: 0px;
+    margin-bottom: 30px;
+}
+
+#introBoxSubTitle {
+    color: black;
+    font-size: 30px;
+    font-weight: 400;
+    font-family: "Nunito", sans-serif;
+
+    margin: auto;
+    margin-left: 0px;
+    margin-top: 0px;
+
+}
+
+#getStartedButton {
+    border: none;
+    background: #3c55f1;
+    border-radius: 5px;
+
+    display: flex;
+
+    color: white;
+    font-size: 28px;
+    font-weight: 500px;
+
+    margin: auto;
+    margin-left: 0px;
+
+    width: 220px;
+}
+
+#rightArrow {
+    margin: auto;
+}
+
+#guyPenLaptop {
+    margin: auto;
+    margin-right: 0px;
+
+
+    height: 600px;
+    width: 700px;
+}
+
+/* Intro Box Content End */
 
 /* HERO SECTION END */

@@ -28,6 +28,7 @@ body {
 
 .hero-section {
     border: 1px solid black;
+    background-image: url(/Assests/img/hero-bg.png);
 
     display: flex;
     flex-direction: column;
